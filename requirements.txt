@@ -1,7 +1,6 @@
+streamlit
 tensorflow==2.10.0
-numpy
-pandas
+pillow
+numpy==1.23.5
 matplotlib
 scikit-learn
-pillow
-streamlit
