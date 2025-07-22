@@ -17,6 +17,7 @@ Early detection of skin cancers such as **melanoma** is critical. However, acces
 
 ## Project Structure
 
+```
 Skin_Lesion_Classifier/
 ├── README.md
 ├── requirements.txt
@@ -24,6 +25,7 @@ Skin_Lesion_Classifier/
 ├── App/
 │ ├── app.py
 │ └── best_model_final_MobNet.keras
+```
 
 ## Dataset
 
