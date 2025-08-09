@@ -68,6 +68,14 @@ This model was trained on the **HAM10000** dataset — a publicly available coll
 
 ---
 
+## Streamlit Demo (Skin Lesion Classifier)
+
+Run the classifier in your browser—no setup needed:  
+**Live app:** [Click here to access the web based app](https://skin-lesion-classifier-ty8nthtq5kg7wze8rnnfja.streamlit.app/)
+
+This UI wraps a lightweight MobileNetV2 classifier trained on HAM10000 and is meant for **research/education**. It shows top‑k probabilities and class names.
+
+
 ## Future Scope
 
 - Apply **GANs** to generate synthetic images for underrepresented classes.
