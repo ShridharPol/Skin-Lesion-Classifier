@@ -6,12 +6,17 @@ This project is a **lightweight prototype** for a skin lesion classification sys
 
 ## Motivation
 
-Early detection of skin cancers such as **melanoma** is critical. However, access to dermatologists is often lacking in underserved areas. This project aims to:
+Early detection of serious skin conditions — including cancers like melanoma as well as other lesions such as ulcers, keratoses, and vascular growths — is critical for timely treatment. However, access to dermatologists is often lacking in underserved areas.
 
-- Build a **lightweight deep learning model** that can run on mobile or low-end devices.
-- Evaluate whether pre-trained models like MobileNetV2 are viable for this task.
-- Deploy a **minimal web-based app** for skin lesion prediction.
-- Lay the groundwork for future improvements using **GANs**, **segmentation**, or **clinical data**.
+This project aims to:
+
+- Explore whether a lightweight deep learning model (e.g., MobileNetV2) could be suitable for future offline deployment on mobile or edge devices in low-resource settings.
+
+- Test the feasibility through a trained prototype model.
+
+- Demonstrate the concept via a minimal web-based Streamlit app.
+
+- Lay the groundwork for future improvements using GANs, segmentation, or integration with clinical data.
 
 ---
 
