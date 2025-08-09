@@ -88,7 +88,7 @@ This model was trained on the **HAM10000** dataset — a publicly available coll
 
 ## Author
 
-**Shridhar Pol**  
+**Shridhar Sunilkumar Pol**  
 MS in Electrical and Computer Engineering  
 Northeastern University  
 Passionate about using AI for social good
