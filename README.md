@@ -104,4 +104,3 @@ This UI wraps a lightweight MobileNetV2 classifier trained on HAM10000 and is me
 **Shridhar Sunilkumar Pol**  
 MS in Electrical and Computer Engineering  
 Northeastern University  
-Passionate about using AI for social good
